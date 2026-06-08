@@ -1,0 +1,5 @@
+interface:
+  display_name: Video Subtitler
+  short_description: Accurate video subtitles with SRT and transcript
+  brand_color: "#0EA5E9"
+  default_prompt: "Use $video-subtitler to add accurate subtitles to this video and return video, SRT, and transcript."
